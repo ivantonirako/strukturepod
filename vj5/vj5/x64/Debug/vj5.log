@@ -1,0 +1,6 @@
+﻿  vj.c
+C:\Users\ivant\OneDrive\Desktop\struktf\vj5\vj5\vj.c(9,9): warning C4005: 'EXIT_FAILURE': macro redefinition
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(53,9):
+      see previous definition of 'EXIT_FAILURE'
+  
+  vj5.vcxproj -> C:\Users\ivant\OneDrive\Desktop\struktf\vj5\x64\Debug\vj5.exe
