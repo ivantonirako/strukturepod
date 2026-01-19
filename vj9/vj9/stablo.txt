@@ -1,0 +1,4 @@
+inorder nakon insert funkcije:
+15 19 21 42 45 59 65 67 72 74 
+inorder nakon replace funkcije:
+0 78 0 21 288 0 59 124 407 0 
